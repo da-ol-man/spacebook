@@ -7,7 +7,6 @@ eleventyNavigation:
   order: 0
   title: home
 ---
-![Hello, world](/content/images/small.jpg)
 Welcome to whatt4's site. 
 
 If you leave your email address, I will alert you once I start adding content.
@@ -16,7 +15,7 @@ You can also let me know if there is anything in particular you would like me to
 
 Won't be too long now. 
 
-![Hello, world](/content/images/hello.jpg)
+![Hello, world](/content/images/small.jpg)
 
 ->*Onwards...*<-
 
