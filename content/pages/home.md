@@ -1,5 +1,5 @@
 ---
-title: @whatt4
+title: whatt4
 date: Last Modified 
 permalink: /
 eleventyNavigation:
