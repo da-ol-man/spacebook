@@ -5,7 +5,7 @@ permalink: /
 eleventyNavigation:
   key: Hello 
   order: 0
-  title: whatt4.
+  title: home
 ---
 Welcome to whatt4's site. 
 
