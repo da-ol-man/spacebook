@@ -1,15 +1,15 @@
 ---
-title: Hello, world.
+title: Home.
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: Hello 
+  key: Home 
   order: 0
-  title: Hello, world.
+  title: Home.
 ---
 Welocome to whatt4's site. 
 
-If yo leave your email address, I will alert you once I start adding content.
+If you leave your email address, I will alert you once I start adding content.
 
 ![Hello, world](/content/images/hello.jpg)
 
