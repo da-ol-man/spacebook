@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 0
   title: Hello, world.
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
+Welocome to whatt4's site. 
+
+If yo leave your email address, I will alert you once I start adding content.
 
 ![Hello, world](/content/images/hello.jpg)
 
