@@ -1,5 +1,5 @@
 ---
-title: ![Hello, world](/content/images/small.jpg)whatt4
+title: whatt4
 date: Last Modified 
 permalink: /
 eleventyNavigation:
@@ -7,6 +7,7 @@ eleventyNavigation:
   order: 0
   title: home
 ---
+![Hello, world](/content/images/small.jpg)
 Welcome to whatt4's site. 
 
 If you leave your email address, I will alert you once I start adding content.
