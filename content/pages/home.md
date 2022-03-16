@@ -1,5 +1,5 @@
 ---
-title: whatt4
+title: ![Hello, world](/content/images/small.jpg)whatt4
 date: Last Modified 
 permalink: /
 eleventyNavigation:
