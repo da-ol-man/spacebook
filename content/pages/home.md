@@ -8,15 +8,10 @@ eleventyNavigation:
   title: home
 ---
 Welcome!
-![Hello, world](/content/images/small.png)
 
-Want to get in touch, please reach out on one of the following:
+☎️ Want to get in touch? Little envelope on the bottom 📬
 
-Twitter: @whatt4
-Telegram: @whatt4
-Discord: @whatt3606
-
-
+![Hello, world](/content/images/small1.jpg)
 
 ->*Onwards...*<-
 
