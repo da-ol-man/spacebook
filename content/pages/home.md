@@ -8,7 +8,7 @@ eleventyNavigation:
   title: home
 ---
 Welcome!
-![Hello, world](/content/images/small.jpg)
+![Hello, world](/content/images/small.png)
 
 Want to get in touch, please reach out on one of the following:
 
