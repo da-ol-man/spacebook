@@ -7,14 +7,14 @@ eleventyNavigation:
   order: 0
   title: home
 ---
-Welcome! to whatt4's site. 
+Welcome!
 ![Hello, world](/content/images/small.jpg)
 
-If you leave your email address, I will alert you once I start adding content.
+Want to get in touch, please reach out on one of the following:
 
-You can also let me know if there is anything in particular you would like me to cover.
-
-Won't be too long now. 
+Twitter: @whatt4
+Telegram: @whatt4
+Discord: @whatt3606
 
 
 
